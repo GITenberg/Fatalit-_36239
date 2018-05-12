@@ -1,0 +1,35 @@
+_repo: Fatalit-_36239
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Bisi, Sofia Albini
+    birthdate: 1856
+    gutenberg_agent_id: '41167'
+    url: http://www.gutenberg.org/2009/agents/41167
+covers:
+- cover_type: archival
+  image_path: 36239-rst/images/fcover.jpg
+creator:
+  author:
+    agent_name: Negri, Ada
+    alias: Garlanda, Ada
+    birthdate: 1870
+    deathdate: 1945
+    gutenberg_agent_id: '38065'
+    url: http://www.gutenberg.org/2009/agents/38065
+description: ''
+gutenberg_bookshelf: IT Poesia
+gutenberg_issued: '2011-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36239'
+  lccn: '01025021'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian poetry'
+- !lcc 'PQ'
+title: Fatalità
+url: http://www.gutenberg.org/ebooks/36239
